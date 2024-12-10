@@ -35,12 +35,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/102",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/102",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/102",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/102",
+        "timeout": 0,
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/102",
+        "subSource": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/102",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
@@ -62,12 +62,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/202",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/202",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/202",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/202",
+        
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.64:554/Streaming/Channels/202",
+        "subSource": "-i rtsp://admin:password@192.168.0.64:554/Streaming/Channels/202",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
@@ -89,12 +89,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.73/:554/Streaming/Channels/102",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.73:554/Streaming/Channels/102",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.73/:554/Streaming/Channels/102",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.73:554/Streaming/Channels/102",
+        
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.73:554/Streaming/Channels/102",
+        "subSource": "-i rtsp://admin:password@192.168.0.73:554/Streaming/Channels/102",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
@@ -116,12 +116,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.73:554/Streaming/Channels/202",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.73:554/Streaming/Channels/202",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.73:554/Streaming/Channels/202",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.73:554/Streaming/Channels/202",
+        
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.73:554/Streaming/Channels/202",
+        "subSource": "-i rtsp://admin:password@192.168.0.73:554/Streaming/Channels/202",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
@@ -143,12 +143,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/102",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/102",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/102",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/102",
+        
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/102",
+        "subSource": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/102",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
@@ -170,12 +170,12 @@
       "recordOnMovement": null,
       "prebuffering": null,
       "videoConfig": {
-        "source": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/202",
-        "stillImageSource": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/202",
-        "timeout": 10,
+        "source": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/202",
+        "stillImageSource": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/202",
+        
         "audio": null,
         "debug": null,
-        "subSource": "-i rtsp://admin:password123@192.168.0.50:554/Streaming/Channels/202",
+        "subSource": "-i rtsp://admin:password@192.168.0.50:554/Streaming/Channels/202",
         "rtspTransport": null,
         "vcodec": null,
         "acodec": null
